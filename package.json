@@ -1,0 +1,8 @@
+{
+  "name": "eduficd-recreated-courses",
+  "version": "1.0.0",
+  "description": "Auth-free Vercel deployment for Eduficd courses and recreated videos",
+  "scripts": {
+    "start": "serve public"
+  }
+}
